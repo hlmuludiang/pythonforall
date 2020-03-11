@@ -1,0 +1,15 @@
+resources:
+  enable : true
+  title : Learning Resources
+  resource_table :
+    - name: Learn Python 3 the Hard (Third Edition)
+      price: $31.50
+      button:
+        label: "Buy it on Amazon"
+        link: "https://www.amazon.com/gp/product/0321884914/ref=dbs_a_def_rwt_bibl_vppi_i1"
+
+    - name: Slack
+      price: Free
+      button:
+        label: "Join us on Slack"
+        link: "https://pythonforall.slack.com"

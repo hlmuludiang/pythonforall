@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/wordcloud.webp"
+  bg_image : "images/wordcloud.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Python For All"
+  content : "Pyhton! What is it good for...? Absolutely anything."
+  button:
+    enable : false
+    label : "Explore Us"
+    link : "#services"

@@ -1,0 +1,67 @@
+/*=================================================================
+  resources section
+==================================================================*/
+.resource-item {
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  padding-bottom: 30px;
+  margin-bottom: 15px;
+}
+
+.resource-title {
+  background-color: #292F36;
+  padding: 30px 0 20px;
+}
+
+.resource-title h3 {
+  color: #57cbcc;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.resource-title p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.resource-title .value {
+  color: #57cbcc;
+  font-size: 30px;
+}
+
+.resource ul,
+.skill-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.resource li {
+  padding: 10px 0;
+}
+
+.resource li:last-child {
+  border-bottom: 1px solid rgba(236, 239, 241, 0.07);
+  margin-bottom: 20px;
+}
+
+.resource li:nth-child(2n) {
+  background-color: #292F36;
+}
+
+.resource li .btn {
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+
+/*====
+Making the banner image responsive
+======*/
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.hero-area img {
+  width: 100%;
+  height: auto;
+}
